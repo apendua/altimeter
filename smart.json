@@ -1,0 +1,9 @@
+{
+  "name": "altimeter",
+  "description": "A simple altimeter for Meteor",
+  "homepage": "https://github.com/apendua/altimeter",
+  "author": "Tomasz Lenarcik",
+  "version": "0.0.1",
+  "git": "https://github.com/apendua/altimeter.git",
+  "packages": {}
+}
